@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <!--<item
+        android:id="@+id/home"
+        android:orderInCategory="100"
+        android:title="@string/action_home"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/movies"
+        android:orderInCategory="100"
+        android:title="@string/action_movies"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/tvshows"
+        android:orderInCategory="100"
+        android:title="@string/action_tvshows"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/people"
+        android:orderInCategory="100"
+        android:title="@string/action_people"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/genres"
+        android:orderInCategory="100"
+        android:title="@string/action_genres"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/rateapp"
+        android:orderInCategory="100"
+        android:title="@string/action_rateapp"
+        app:showAsAction="always" />-->
+
+</menu>
